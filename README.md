@@ -14,7 +14,7 @@ $$ p = \frac{\rho R T}{M_{H_2}}$$
 
 Mass differential equations 
 
-$$ \frac{d \rho_{H_2}}{d t} = \frac{\dot{m}_s}{V \varepsilon} - \frac{(1 - \varepsilon) \rho_b {M_{H_2}}}{\varepsilon}$$
+$$ \frac{d \rho_{H_2}}{d t} = \frac{\dot{m}_s}{V \varepsilon} - \frac{(1 - \varepsilon) \rho_b {MW}}{\varepsilon}\frac{d n_A}{d t}$$
 
 Lumped parameter temprature differential equation (Xiao, 2013):
 
