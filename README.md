@@ -4,7 +4,9 @@
 Notebook that solves a hydrogen adsorption system in spherical coordinates. This is a quick implementation that tests the capabilities of Julia to solve differential system of equations that includes algebraic equations. 
 
 ### Equations
-Algebraic equations: $$ n_A = n_0 \exp \left[ {\left(-\frac{RT}{{\alpha + \beta T}}\right)^m \ln^m\left(\frac{p_0}{p}\right)} \right]$$
+Algebraic equations: 
+
+$$ n_A = n_0 \exp \left[ {\left(-\frac{RT}{{\alpha + \beta T}}\right)^m \ln^m\left(\frac{p_0}{p}\right)} \right]$$
 
 $$ f(n_A) =  n_A - n_0 \exp {\left(-\frac{RT}{{\alpha + \beta T}}\right)^m \ln^m\left(\frac{p_0}{p}\right)}  $$
 
